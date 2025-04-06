@@ -1,0 +1,2 @@
+python3 python3-pip python3-dev virtualenv git build-essential g++ libc6-dev nano emacs htop tmux man fish virtualbox valgrind python3-numpy python3-pandas python3-matplotlib openocd stlink-tools minicom screen cu python3-pip cmake make gdb
+snap install code 
