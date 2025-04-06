@@ -1,0 +1,29 @@
+set smarthome
+# Use smooth scrolling as the default.
+# Not working right now
+#set smooth
+# Enable soft line wrapping (AKA full line display).
+set softwrap
+# Automatically continue indents from previous lines
+set autoindent
+# Set the tab size to 4 spaces
+set tabsize 4
+# Set tabs to spaces
+set tabstospaces
+# Gives line numbers
+set linenumbers
+# wrap line at blanks.
+set atblanks
+# Saves the cursor position between editing sessions.
+set positionlog
+# Allows you to highlight text (CTRL+SHIFT+ARROW) and delete it with backspace.
+set zap
+# A new line will have the same number of leading spaces as the previous one.
+set autoindent
+# Displays a scroll bar on the right that shows the position and size of the current view port.
+set indicator
+# Enables mouse support
+set mouse
+
+
+
